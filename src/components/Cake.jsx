@@ -102,15 +102,15 @@ function Cake() {
               </defs>
               <text fontSize="40" fill="white" textAnchor="middle">
                 <textPath href="#curve" startOffset="50%">
-                  Happy Birthday!
+                  HB Naniey !
                 </textPath>
               </text>
             </svg>
-            <Link to="/present" className="flex justify-center items-center">
+            {/* <Link to="/present" className="flex justify-center items-center">
               <p className="absolute top-[30rem] xs:top-[36rem] s:top-[40rem] px-7 py-3 bg-customBlue text-white rounded-full hover:bg-blue-600 font-medium text-base text-center ">
                 Next Page
               </p>
-            </Link>
+            </Link> */}
           </motion.div>
         )}
         <div className="relative z-10">
